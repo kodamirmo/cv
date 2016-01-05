@@ -1,8 +1,11 @@
 ---
 layout: default
+title : Translate2Me
 modal-id: 1
 date: 2014-07-18
 img: portafolio8.png
+img1: proyecto8_1.png
+img2: proyecto8_2.jpeg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

@@ -1,8 +1,11 @@
 ---
 layout: default
+title : NFC Hospitales
 modal-id: 1
 date: 2014-07-18
 img: portafolio18.png
+img1: proyecto18.png
+img2: none
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

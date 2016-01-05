@@ -1,8 +1,11 @@
 ---
 layout: default
+title : Bibliotecas Digitales
 modal-id: 1
 date: 2014-07-18
 img: portafolio4.png
+img1: proyecto4.png
+img2: none
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

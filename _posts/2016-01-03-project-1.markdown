@@ -1,8 +1,11 @@
 ---
 layout: default
+title : PawHub
 modal-id: 1
 date: 2014-07-18
 img: portafolio3.png
+img1: proyecto3_1.png
+img2: proyecto3_2.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

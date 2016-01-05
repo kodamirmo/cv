@@ -1,8 +1,11 @@
 ---
 layout: default
+title : Downloader
 modal-id: 1
 date: 2014-07-18
 img: portafolio12.png
+img1: proyecto12_1.png
+img2: proyecto12_2.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

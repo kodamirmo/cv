@@ -1,8 +1,11 @@
 ---
 layout: default
+title : Tu y Yo
 modal-id: 1
 date: 2014-07-18
 img: portafolio11.png
+img1: proyecto11_1.png
+img2: proyecto11_2.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

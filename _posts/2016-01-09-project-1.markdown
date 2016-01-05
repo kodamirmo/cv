@@ -1,8 +1,11 @@
 ---
 layout: default
+title : Cardioguía
 modal-id: 1
 date: 2014-07-18
 img: portafolio9.png
+img1: proyecto9_1.png
+img2: proyecto9_2.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

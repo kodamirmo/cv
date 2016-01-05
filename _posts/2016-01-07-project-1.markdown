@@ -1,8 +1,11 @@
 ---
 layout: default
+title : Live Wallpaper
 modal-id: 1
 date: 2014-07-18
 img: portafolio7.png
+img1: proyecto7_1.png
+img2: proyecto7_2.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

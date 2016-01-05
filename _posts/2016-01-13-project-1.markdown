@@ -1,8 +1,11 @@
 ---
 layout: default
+title : Trip+
 modal-id: 1
 date: 2014-07-18
 img: portafolio13.png
+img1: proyecto13_1.jpeg
+img2: proyecto13_2.jpeg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

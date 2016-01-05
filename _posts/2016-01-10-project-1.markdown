@@ -1,8 +1,11 @@
 ---
 layout: default
+title : MusicApp
 modal-id: 1
 date: 2014-07-18
 img: portafolio10.png
+img1: proyecto10_1.png
+img2: proyecto10_2.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
