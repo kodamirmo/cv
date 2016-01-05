@@ -7,10 +7,10 @@ img: portafolio1.png
 img1: proyecto1_1.jpeg
 img2: proyecto1_2.jpeg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+project-date: March 2013
+client: Promarket
+category: Android Development
+description: Gestión de usuarios y reportes para vendedores de medicamentos de la cadena Janssen. Se buscaba solucionar los problemas que se tenían al tratar de contactar la personal en sitio, con la aplicación el contacto con ellos se pudo establecer de manera exitosa.
 
 ---
 

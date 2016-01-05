@@ -1,15 +1,15 @@
 ---
 layout: default
 title : Cardioguía
-modal-id: 1
+modal-id: 9
 date: 2014-07-18
 img: portafolio9.png
 img1: proyecto9_1.png
 img2: proyecto9_2.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+project-date: May 2014
+client: Sanofi
+category: Android Development
+description: Cardioguia is a free application for patients that aims to increase awareness of hypertension showing tools that help improve control, such as information related to the disease, logbook for recording of blood pressure, healthy diets, recommendations exercise, videos, tips and alerts to help patients take their medication at the times recommended by the cardiologist. <a href="https://play.google.com/store/apps/details?id=com.sanofi.mx.cardioguia">Google Play</a>.
 
 ---

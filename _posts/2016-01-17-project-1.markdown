@@ -1,16 +1,16 @@
 ---
 layout: default
 title : Go&See
-modal-id: 1
+modal-id: 17
 date: 2014-07-18
 img: portafolio17.png
 img1: proyecto17_1.jpeg
 img2: proyecto17_2.jpeg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+project-date: May 2015
+client: Academia Lean Sigma
+category: Android/iOS Development / API
+description: Our system allow us to enable leaders to effectively and efficiently develop and use Leaders Standard Work to stabilize the process by checking the key process parameters and operations that assure Quality, Safety and avoid unnecessary costs associated with not doing things the way they should. <a href="https://play.google.com/store/apps/details?id=com.als.goandsee">Go&See</a>.
 
 ---
 

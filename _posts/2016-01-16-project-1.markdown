@@ -1,16 +1,16 @@
 ---
 layout: default
 title : Apparel
-modal-id: 1
+modal-id: 16
 date: 2014-07-18
 img: portafolio16.png
 img1: proyecto16_1.jpeg
 img2: proyecto16_2.jpeg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+project-date: Jun 2015
+client: Apparel
+category: Android/iOS Development
+description: Apparel es un sistema online que consta de una página web y aplicaciones para dispositivos móviles, que ofrece los servicios de las mejores tintorerías que dan servicio a tu domicilio. <a href="https://play.google.com/store/apps/details?id=mx.apparelmobile.apparel">Google Play</a>
 
 ---
 

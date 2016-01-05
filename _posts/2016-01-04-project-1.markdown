@@ -1,15 +1,15 @@
 ---
 layout: default
 title : Bibliotecas Digitales
-modal-id: 1
+modal-id: 4
 date: 2014-07-18
 img: portafolio4.png
 img1: proyecto4.png
 img2: none
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: Nov 2013
+client: ENOVA/Gobierno del Estado de México
 category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+description: Sistema para controlar las tablets que se encontraban en las bibliotecas digitales, con un módulo de gestión de usuarios, restricción de acceso a ciertas secciones,instalacion de contenido remoto (como libros).  Este proyecto no llegó a su fin por problemas administrativos, pero la aplicación estuvo lista para usarse.
 
 ---
