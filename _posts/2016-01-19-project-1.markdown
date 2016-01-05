@@ -1,0 +1,16 @@
+---
+layout: default
+title : Administracion Mariana
+modal-id: 19
+date: 2014-07-18
+img: portafolio19.png
+img1: web1.png
+img2: none
+alt: image-alt
+project-date: Feb 2015
+client: Senadora Mariana
+category: Web Development
+description: Web para administración del equipo de trabajo de la Senadora.
+
+---
+

@@ -5,9 +5,45 @@
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
     <link>https://kodamirmo.github.io/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 04 Jan 2016 22:05:45 -0600</pubDate>
-    <lastBuildDate>Mon, 04 Jan 2016 22:05:45 -0600</lastBuildDate>
+    <pubDate>Mon, 04 Jan 2016 23:07:05 -0600</pubDate>
+    <lastBuildDate>Mon, 04 Jan 2016 23:07:05 -0600</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Soyuz</title>
+        <description>Soyuz is a tool for deploy your Metor app from github.</description>
+        <pubDate>Fri, 18 Jul 2014 00:00:00 -0500</pubDate>
+        <link>https://kodamirmo.github.io/devop%20tool/2014/07/18/project-1/</link>
+        <guid isPermaLink="true">https://kodamirmo.github.io/devop%20tool/2014/07/18/project-1/</guid>
+        
+        
+        <category>DevOp tool</category>
+        
+      </item>
+    
+      <item>
+        <title>Go&amp;See</title>
+        <description>Our system allow us to enable leaders to effectively and efficiently develop and use Leaders Standard Work to stabilize the process by checking the key process parameters and operations that assure Quality, Safety and avoid unnecessary costs associated with not doing things the way they should. &lt;a href=&quot;http://demo.goandsee.co&quot;&gt;Go&amp;See&lt;/a&gt;.</description>
+        <pubDate>Fri, 18 Jul 2014 00:00:00 -0500</pubDate>
+        <link>https://kodamirmo.github.io/web%20development/2014/07/18/project-1/</link>
+        <guid isPermaLink="true">https://kodamirmo.github.io/web%20development/2014/07/18/project-1/</guid>
+        
+        
+        <category>Web Development</category>
+        
+      </item>
+    
+      <item>
+        <title>Administracion Mariana</title>
+        <description>Web para administración del equipo de trabajo de la Senadora.</description>
+        <pubDate>Fri, 18 Jul 2014 00:00:00 -0500</pubDate>
+        <link>https://kodamirmo.github.io/web%20development/2014/07/18/project-1/</link>
+        <guid isPermaLink="true">https://kodamirmo.github.io/web%20development/2014/07/18/project-1/</guid>
+        
+        
+        <category>Web Development</category>
+        
+      </item>
     
       <item>
         <title>NFC Hospitales</title>
@@ -84,42 +120,6 @@
       <item>
         <title>Downloader</title>
         <description>This app helps to handle your downloads simultaneously.</description>
-        <pubDate>Fri, 18 Jul 2014 00:00:00 -0500</pubDate>
-        <link>https://kodamirmo.github.io/android%20development/2014/07/18/project-1/</link>
-        <guid isPermaLink="true">https://kodamirmo.github.io/android%20development/2014/07/18/project-1/</guid>
-        
-        
-        <category>Android Development</category>
-        
-      </item>
-    
-      <item>
-        <title>Tú y Yo</title>
-        <description>Tú y Yo helps you find love by chat, meet and date new friends! The easier way to chat with latin or hispanic personals online.</description>
-        <pubDate>Fri, 18 Jul 2014 00:00:00 -0500</pubDate>
-        <link>https://kodamirmo.github.io/android%20development%20/%20api/2014/07/18/project-1/</link>
-        <guid isPermaLink="true">https://kodamirmo.github.io/android%20development%20/%20api/2014/07/18/project-1/</guid>
-        
-        
-        <category>Android Development / API</category>
-        
-      </item>
-    
-      <item>
-        <title>MusicApp</title>
-        <description>You can download your favorite music and create your own ringtones.</description>
-        <pubDate>Fri, 18 Jul 2014 00:00:00 -0500</pubDate>
-        <link>https://kodamirmo.github.io/android%20development/2014/07/18/project-1/</link>
-        <guid isPermaLink="true">https://kodamirmo.github.io/android%20development/2014/07/18/project-1/</guid>
-        
-        
-        <category>Android Development</category>
-        
-      </item>
-    
-      <item>
-        <title>Cardioguía</title>
-        <description>Cardioguia is a free application for patients that aims to increase awareness of hypertension showing tools that help improve control, such as information related to the disease, logbook for recording of blood pressure, healthy diets, recommendations exercise, videos, tips and alerts to help patients take their medication at the times recommended by the cardiologist. &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.sanofi.mx.cardioguia&quot;&gt;Google Play&lt;/a&gt;.</description>
         <pubDate>Fri, 18 Jul 2014 00:00:00 -0500</pubDate>
         <link>https://kodamirmo.github.io/android%20development/2014/07/18/project-1/</link>
         <guid isPermaLink="true">https://kodamirmo.github.io/android%20development/2014/07/18/project-1/</guid>

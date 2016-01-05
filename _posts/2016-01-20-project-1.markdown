@@ -1,0 +1,16 @@
+---
+layout: default
+title : Go&See
+modal-id: 20
+date: 2014-07-18
+img: portafolio20.png
+img1: web2.png
+img2: none
+alt: image-alt
+project-date: Jul 2015
+client: Academia Lean Sigma
+category: Web Development
+description: Our system allow us to enable leaders to effectively and efficiently develop and use Leaders Standard Work to stabilize the process by checking the key process parameters and operations that assure Quality, Safety and avoid unnecessary costs associated with not doing things the way they should. <a href="http://demo.goandsee.co">Go&See</a>.
+
+---
+

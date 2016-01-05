@@ -1,0 +1,16 @@
+---
+layout: default
+title : Soyuz
+modal-id: 21
+date: 2014-07-18
+img: portafolio21.png
+img1: web3.png
+img2: none
+alt: image-alt
+project-date: Apr 2015
+client: Own project
+category: DevOp tool 
+description: Soyuz is a tool for deploy your Metor app from github.
+
+---
+
